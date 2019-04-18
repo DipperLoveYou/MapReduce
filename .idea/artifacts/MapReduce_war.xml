@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MapReduce:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="MapReduceTest.war">
+      <element id="artifact" artifact-name="MapReduce:war exploded" />
+    </root>
+  </artifact>
+</component>
